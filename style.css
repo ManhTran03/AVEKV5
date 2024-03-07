@@ -236,3 +236,10 @@ button:hover p {
     opacity: 1;
   }
 }
+#player{
+  position: bottom;
+  width: 7%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
